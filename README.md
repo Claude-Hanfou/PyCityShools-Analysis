@@ -2,9 +2,9 @@
 
 ## Observations
 
-* Budget wise, bigger schools spend more than smaller schools on their students, this could be an indicator that students in bigger schools might have more epensive needs or there is inadequacy in budget management.In addition, we can also see that smaller schools tedn to have higher overall passing rates.
+* Budget wise, bigger schools spend more than smaller schools on their students, this could be an indicator that students in bigger schools might have more expensive needs or there is inadequacy in budget management.In addition, we can also see that smaller schools tend to have higher overall passing rates.
 
-* If we take a look at the school types, we see that Charter schools have a higherp assing rate in both Math and Rading and in comparison to District schools, and therefore a hihger overall passing rate.
+* If we take a look at the school types, we see that Charter schools have a higher assing rate in both Math and Reading in comparison to District schools, and therefore a hihger overall passing rate.
 
 * Larger schools tend to have a lower percentage in both reading and passing, this could be attributed to the school size and inability to manage a large number of student as it may be for a smaller schools
 
