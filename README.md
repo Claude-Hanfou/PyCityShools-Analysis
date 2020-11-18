@@ -1,6 +1,6 @@
 # PyCityShools-Analysis
 
-##Observaations
+## Observations
 
 * Budget wise, bigger schools spend more than smaller schools on their students, this could be an indicator that students in bigger schools might have more epensive needs or there is inadequacy in budget management.In addition, we can also see that smaller schools tedn to have higher overall passing rates.
 
