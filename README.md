@@ -4,9 +4,9 @@
 
 * Budget wise, bigger schools spend more than smaller schools on their students, this could be an indicator that students in bigger schools might have more expensive needs or there is inadequacy in budget management.In addition, we can also see that smaller schools tend to have higher overall passing rates.
 
-* If we take a look at the school types, we see that Charter schools have a higher assing rate in both Math and Reading in comparison to District schools, and therefore a hihger overall passing rate.
+* If we take a look at the school types, we see that Charter schools have a higher passing rate in both Math and Reading in comparison to District schools, and therefore a hihger overall passing rate.
 
-* Larger schools tend to have a lower percentage in both reading and passing, this could be attributed to the school size and inability to manage a large number of student as it may be for a smaller schools
+* Larger schools tend to have a lower scores in both reading and passing, this could be attributed to the school size and inability to manage a large number of student as it may be for a smaller schools. 
 
 
 The PyCityShools-Analysis repository contains a Jupyter Notebook to analyze fictional district-wide standardized test results. The purpose of the repository is to aggregate the data and showcase obvious trends in school performance.Also,helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
