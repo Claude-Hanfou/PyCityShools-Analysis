@@ -1,6 +1,6 @@
 # PyCityShools-Analysis
 
-The PyCityShools-Analysis repository contains a Jupyter Notebook to analyze fictional district-wide standardized test results. The purpose of the repository is to aggregate the data and showcase obvious trends in school performance.
+The PyCityShools-Analysis repository contains a Jupyter Notebook to analyze fictional district-wide standardized test results. The purpose of the repository is to aggregate the data and showcase obvious trends in school performance.Also,helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
 
 ### District Summary
 A high level snapshot (in table form) of the district's key metrics, including:
