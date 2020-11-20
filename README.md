@@ -8,6 +8,7 @@
 
 * Larger schools tend to have a lower scores in both reading and passing, this could be attributed to the school size and inability to manage a large number of student as it may be for a smaller schools. 
 
+** Note- The score by school spending displays differently in GitHuB, a screenshot from Jupyter Notebook is included below
 
 The PyCityShools-Analysis repository contains a Jupyter Notebook to analyze fictional district-wide standardized test results. The purpose of the repository is to aggregate the data and showcase obvious trends in school performance.Also,helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
 ![alt text](https://github.com/Claude-Hanfou/PyCityShools-Analysis/blob/main/Image/Data%20Head.PNG "Data Head")
