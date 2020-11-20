@@ -69,4 +69,4 @@ Tables that breaks down school performances based on average Spending Ranges (Pe
 * Similar to the "Scores by School Spending" table, but in this table the schools are grouped based on a reasonable approximation of school size (Small, Medium, Large).
 
 ### Scores by School Type
-* Similar to the "Scores by School Size" table, but in this table, schools are grouped based on school type (Charter vs. District).
+* Similar to the "Scores by School Size" table, but in this table, schools are grouped based on school type (Charter vs. District)
