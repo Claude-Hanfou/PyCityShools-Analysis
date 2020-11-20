@@ -62,6 +62,8 @@ Tables that breaks down school performances based on average Spending Ranges (Pe
 * % Passing Math
 * % Passing Reading
 * Overall Passing Rate (Average of the above two)
+![alt text](https://https://github.com/Claude-Hanfou/PyCityShools-Analysis/blob/main/Image/Scores%20by%20school%20Spending.PNG "Scores by School Spending")
+
 ### Scores by School Size
 * Similar to the "Scores by School Spending" table, but in this table the schools are grouped based on a reasonable approximation of school size (Small, Medium, Large).
 
